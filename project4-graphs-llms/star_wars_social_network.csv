@@ -1,0 +1,26 @@
+Source,Target,Weight
+Luke,Leia,10
+Leia,Han,8
+Han,Leia,7
+Leia,Chewbacca,6
+Luke,Han,9
+Darth Vader,Luke,10
+Leia,Darth Vader,5
+Obi-Wan,Luke,8
+Han,Chewbacca,4
+Luke,Yoda,7
+Chewbacca,Han,3
+Leia,Lando,5
+Luke,Darth Vader,10
+Yoda,Luke,8
+Luke,Obi-Wan,6
+Darth Vader,Palpatine,9
+Leia,Han,4
+Chewbacca,Lando,7
+Han,Leia,6
+Yoda,Leia,5
+Lando,Chewbacca,7
+Leia,Luke,8
+Darth Vader,Palpatine,6
+Palpatine,Luke,9
+Luke,Han,5
